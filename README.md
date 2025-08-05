@@ -67,6 +67,11 @@ The following Jupyter Notebooks represent the key tasks and analytical phases un
 ## Repository Structure
 ```
 .
+├── datasets/
+│   ├── clean_data_after_eda.csv
+│   ├── client_data.csv
+│   ├── data_for_predictions.csv
+│   └── price_data.csv
 ├── README.md
 ├── Task_2_EDA_.ipynb
 ├── Task_3_Feature_Engineering_.ipynb
